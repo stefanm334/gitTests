@@ -6,6 +6,6 @@ List of **things**:
 - Something else
     - something nested
 
-[ ] - Check item 1
+- [] Check item 1
 
-[x] - Check item 2
+- [x] Check item 2
